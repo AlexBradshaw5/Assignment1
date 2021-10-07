@@ -303,9 +303,9 @@ public class Assignment1 {
         if(isayso == true){
             return;
         }
+
+
         //part 1 below
-
-
 
 
         long insertTime;
